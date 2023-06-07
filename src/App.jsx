@@ -7,6 +7,8 @@ import Menu from './features/menu/Menu'
 import Cart from './features/cart/Cart'
 import CreateOrder from './features/order/CreateOrder'
 import Order from './features/order/Order'
+// eslint-disable-next-line no-unused-vars
+import React from 'react'
 // import User from './features/user/User'
 
 const router = createBrowserRouter([
